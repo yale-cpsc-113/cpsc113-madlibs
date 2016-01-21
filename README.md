@@ -31,6 +31,7 @@ Checkout a new branch with a good name. This will be a command like
   git checkout -b kyle-new-verbs
 ```
 
+
 Here, I named my branch "new-verbs". You should name yours something different, no spaces.
 
 **6) Take a look around at the files ***
