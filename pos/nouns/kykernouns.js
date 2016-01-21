@@ -1,0 +1,1 @@
+module.exports.nouns = ['jam', 'ham'];
