@@ -9,6 +9,7 @@ For this activity, you will use what you've learned about git to work collaborat
 
 **3) Fork the starter repository on Github.**
 
+
 Forking means to make a copy of the code but attach it to your own Github repository so that you can make changes.
 Technically you are "cloning" the starter repo. GitHub calls this "forking" because they add some other
 bells and whistles on top.
