@@ -33,7 +33,7 @@ Checkout a new branch with a good name. This will be a command like
 
 Here, I named my branch "new-verbs". You should name yours something different, no spaces.
 
-**6) Take a look around at the files ***
+**6) Take a look around at the files **
 
 Familiarize yourself where everything lives. You'll use the shell commands `cd` to change
 directories and `ls` to see what is each directory.
