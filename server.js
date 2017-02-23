@@ -5,7 +5,7 @@ var nunjucks = require('nunjucks');
 var _ = require('lodash');
 var app = express();
 
-var PORT = process.env.PORT || '3000';
+var PORT = process.env.PORT || 3000;
 var IP = process.env.IP || '127.0.0.1';
 
 nunjucks.configure('stories', {
@@ -34,6 +34,6 @@ app.get('/:template', function(req, res) {
 });
 
 
-var server = app.listen(process.env.PORT, function () {
+var server = app.listen(PORT, function () {
   console.log('Example app listening at http://%s:%s', IP, PORT);
 });
